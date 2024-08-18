@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://visitcount.itsvg.in/api?id=udaysagar&label=Profile%20Views&color=0&icon=8&pretty=false)](https://udaysagar.in)
+[![](https://visitcount.itsvg.in/api?id=udaysagar&label=Profile%20Views&color=0&icon=8&pretty=false)](https://github.com/UdaySagar-Git/)
