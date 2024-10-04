@@ -35,6 +35,9 @@ I'm open to collaborating on **challenging projects** and **innovative ideas** t
 
 ---
 
-![udaysagar-git's Stats](https://github-readme-stats.vercel.app/api?username=udaysagar-git&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![udaysagar-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaysagar-git&theme=radical&hide_border=false)
-![udaysagar-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaysagar-git&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysagar-git&theme=radical&show_icons=true&hide_border=false&count_private=true" style="width: 48%; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysagar-git&theme=radical&hide_border=false" style="width: 48%; height: 200px; object-fit: cover;"/>
+</div>
+
