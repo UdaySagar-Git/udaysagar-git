@@ -1,9 +1,10 @@
-### Hi there, I'm Uday Sagar 👋
+## Hi there, I'm Uday Sagar 👋
 
 [![](https://visitcount.itsvg.in/api?id=udaysagar&label=Profile%20Views&color=0&icon=8&pretty=false)](https://github.com/UdaySagar-Git/)
 
 Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and **Mobile App Developer**, specializing in **React**, **Next.js**, and **React Native** (Expo). I love building impactful, scalable web and mobile applications and contributing to open-source projects.
-#### 🛠 Technologies & Tools:
+
+## 🛠 Technologies & Tools:
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -111,11 +112,11 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and **Mobile App
 </table>
 
 
-#### 👯 Looking to Collaborate:
+## 👯 Looking to Collaborate:
 I'm open to collaborating on **challenging projects** and **innovative ideas** that inspire creativity and problem-solving.
 
 
-#### 📫 How to reach me:
+## 📫 How to reach me:
 - **Email**: [udaysagar.mail@gmail.com](mailto:udaysagar.mail@gmail.com)
 - **LinkedIn**: [linkedin.com/in/udaysagar-in](https://www.linkedin.com/in/udaysagar-in)
 
